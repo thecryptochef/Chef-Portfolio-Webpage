@@ -26,9 +26,7 @@ body {
   .carousel {      
     margin-bottom: 1rem;
   }
-  .carousel-indicators {
-    position: relative;
-  }  
+  
   /* Declare heights because of positioning of img element */
   .carousel-item {
     height: 37rem;
